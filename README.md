@@ -1,6 +1,6 @@
 # TubeTaker
 
-![image](https://github.com/lurbaby/TubeTaker/assets/120603922/de4fe42e-cdd0-4fc1-9ba9-73892cfc6e3b)
+![image](https://github.com/lurbaby/TubeTaker/assets/120603922/09f9dc64-0ce2-4ff3-9d82-790ee5166d08)
 
 ## Dependencies
 ```
