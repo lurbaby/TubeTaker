@@ -17,9 +17,6 @@ text_title = Text("TubeTaker\nfast video downloader", style="bold white", justif
 panel = Panel(text_title, style="bold white on #8B0000", expand=True)
 
 def main():
-    with open("/home/lurbaby/dev_lurbaby/TubeTaker/video_counter.txt", "r") as count_videos:
-        i = int(count_videos.read())+1
-
     while True:
         url = session.prompt("Video URL: ", style=style)
 
